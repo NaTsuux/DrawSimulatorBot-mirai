@@ -1,0 +1,30 @@
+drawData: 
+  1016957745: 
+    arknights: 14
+    yys: 4
+  1617860374: 
+    arknights: 7
+    yys: 3
+whichPool: 
+  309402989: 
+    - arknights
+    - Standard
+    - 大鸟转转转酒吧
+  299234825: 
+    - arknights
+    - NewYear2021
+    - PP老冰的家
+  924422795: 
+    - arknights
+    - Standard
+    - 空耳寮阴阳师游戏群
+  529530842: 
+    - arknights
+    - Standard
+    - 二刺猿交流中心
+  584741186: 
+    - arknights
+    - Standard
+    - nt之家
+defaultPool: Standard
+defaultGame: arknights

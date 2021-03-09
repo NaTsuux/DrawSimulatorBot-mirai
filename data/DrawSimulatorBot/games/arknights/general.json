@@ -1,0 +1,53 @@
+{
+  "game": "arknights",
+  "name": "明日方舟",
+  "levels": 4,
+  "level_name": ["******", "*****", "****", "***"],
+  "level_name_short": ["6星", "5星", "4星", "3星"],
+  "level_probability": [0.02, 0.08, 0.5, 0.4],
+  "insurance_type": 2,
+  "insurance_start": 50,
+  "insurance_pace": 0.02,
+  "eu_standard": [[1, 0, 0, 0]],
+  "af_standard": [[0, 0, 5, 10]],
+  "standard_pool_id": "Standard",
+  "standard_pool_name": "标准寻访",
+  "event_pool_list": {
+    "Standard": {
+      "pool_id": "Standard",
+      "pool_name": "标准寻访"
+    },
+    "NewYear2021": {
+      "pool_id": "NewYear2021",
+      "pool_name": "【限定寻访·春节】 月隐晦明",
+      "first_up_agents": {
+        "******": ["夕", "嵯峨"],
+        "*****" : ["乌有"]
+      },
+      "first_up_probability": {
+        "******": 0.7,
+        "*****": 0.5
+      },
+      "second_up_agents": [
+        {
+          "name": "年",
+          "level": "******",
+          "times": 5
+        }
+        ]
+      },
+    "RainbowSix": {
+      "pool_id": "RainbowSix",
+      "pool_name": "【进攻、防守、战术交汇】",
+      "first_up_agents": {
+        "******": ["灰烬"],
+        "*****": ["霜华", "闪击"]
+      },
+      "first_up_probability": {
+        "******": 0.5,
+        "*****": 0.5
+      },
+      "second_up_agents": []
+    }
+    }
+}

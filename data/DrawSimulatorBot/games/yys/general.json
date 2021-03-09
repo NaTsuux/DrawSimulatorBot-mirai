@@ -1,0 +1,21 @@
+{
+  "game": "yys",
+  "name": "阴阳师",
+  "levels": 4,
+  "level_name": ["ssr", "sp", "sr", "r"],
+  "level_name_short": ["SSR", "SP", "SR", "R"],
+  "level_probability": [0.03, 0.01, 0.2, 0.76],
+  "insurance_type" : 1,
+  "insurance_start": 100,
+  "insurance_pace": 0,
+  "eu_standard": [[1, 0, 0, 0], [0, 1, 0, 0]],
+  "af_standard": [[0, 0, 1, 10]],
+  "standard_pool_id": "Standard",
+  "standard_pool_name": "标准寻访",
+  "event_pool_list":{
+    "Standard": {
+      "pool_id": "Standard",
+      "pool_name": "标准寻访"
+    }
+  }
+}
